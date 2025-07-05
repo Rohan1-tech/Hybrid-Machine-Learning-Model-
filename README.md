@@ -70,5 +70,21 @@ cd Hybrid-Machine-Learning-Model
 # Install dependencies
 pip install -r requirements.txt
 
-# Run scripts or notebooks
-jupyter notebook notebooks/EDA.ipynb
+
+
+
+
+
+
+---
+
+### ✅ What This Fixes:
+- Markdown headings (`#`, `##`)
+- Code blocks (wrapped with triple backticks)
+- Bullets aligned properly
+- Tables correctly formatted
+- Image placeholders for visual results
+
+---
+
+Let me know if you'd like help uploading images (like confusion matrix or ROC curve) or generating `requirements.txt`.
