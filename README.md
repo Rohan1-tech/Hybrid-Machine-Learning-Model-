@@ -76,15 +76,3 @@ pip install -r requirements.txt
 
 
 
----
-
-### ✅ What This Fixes:
-- Markdown headings (`#`, `##`)
-- Code blocks (wrapped with triple backticks)
-- Bullets aligned properly
-- Tables correctly formatted
-- Image placeholders for visual results
-
----
-
-Let me know if you'd like help uploading images (like confusion matrix or ROC curve) or generating `requirements.txt`.
